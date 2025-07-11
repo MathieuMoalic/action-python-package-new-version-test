@@ -1,0 +1,12 @@
+[project]
+name = "action-python-package-new-version-test"
+version = "0.0.4"
+description = "action-python-package-new-version-test"
+authors = [{ name = "Mathieu Moalic", email = "mathieu@matmoa.eu" }]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
